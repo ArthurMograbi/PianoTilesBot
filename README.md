@@ -1,2 +1,2 @@
 # PianoTilesBot
-A simple bbot fo beating piano tiles
+A simple bot for beating piano tiles
